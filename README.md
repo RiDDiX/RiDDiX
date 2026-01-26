@@ -1,53 +1,88 @@
-# Hi, ich bin RiDDiX 👋
+# Hi, I'm RiDDiX 👋
 
-Willkommen auf meinem GitHub-Profil!  
-Ich bin ein leidenschaftlicher Entwickler und Technik-Enthusiast mit einer großen Begeisterung für **Docker**, **LXC**, **Programmierung** und **Gaming**. Mein Ziel ist es, moderne, skalierbare und effiziente Lösungen zu schaffen, die innovative Technologien mit kreativem Denken verbinden.
-
----
-
-## Über mich
-
-- **Name:** RiDDiX
-- **Spezialgebiete:** Containerisierung, Systemadministration, Webentwicklung, Software-Entwicklung
-- **Interessen:** Neue Technologien, Automatisierung, Open-Source-Projekte und Gaming
-- **Berufliche Ausrichtung:** Entwicklung von modernen Softwarelösungen und robusten Systemarchitekturen
+Welcome to my GitHub profile!  
+I'm a passionate developer and tech enthusiast with a strong focus on **Docker**, **LXC**, **system architecture**, and **software development**.  
+I love building modern, scalable, and efficient solutions by combining innovative technologies with clean and maintainable design.
 
 ---
 
-## Projekte & Beiträge
+## 🚀 About Me
 
-Hier findest du eine Übersicht meiner aktuellen Projekte:
-
-- **[GitHub](https://github.com/RiDDiX):** Schau dir meine Open-Source-Projekte und Beiträge an.
-- **Docker & LXC:** Projekte rund um Container-Technologien und moderne Infrastrukturlösungen.
-- **Webentwicklung:** Diverse Projekte in PHP, JavaScript, HTML und CSS.
-
-Weitere spannende Projekte und Ideen findest du in meinen Repositories. Ich aktualisiere mein Portfolio ständig, um den neuesten Entwicklungen gerecht zu werden.
+- **Name:** RiDDiX  
+- **Focus Areas:** Containerization, System Administration, Web & Software Development  
+- **Interests:** Automation, Open Source, Modern Infrastructure & Gaming  
+- **Goal:** Designing robust, scalable systems and smart software solutions
 
 ---
 
-## Skills
+## 🛠 Tech Stack & Skills
 
-- **Container-Technologien:** Docker, LXC
-- **Programmiersprachen:** PHP, JavaScript, HTML, CSS und mehr
-- **Entwicklung & Automatisierung:** CI/CD, Skripting, Webentwicklung
-- **Gaming:** Leidenschaftlicher Gamer mit einem Auge für innovative Technologien und Trends
-
----
-
-## Kontakt & Zusammenarbeit
-
-Ich freue mich immer über neue Kontakte und spannende Projekte!  
-Wenn du Interesse an einer Zusammenarbeit hast oder einfach Hallo sagen möchtest, erreichst du mich am besten per E-Mail:
-
-- **E-Mail:** [info@riddix.de](mailto:info@riddix.de)
-
-Du kannst mir auch über Social-Media-Kanäle folgen – weitere Links folgen in Kürze!
+- **Container & Infrastructure:** Docker, LXC, Linux, CI/CD  
+- **Programming Languages:** PHP, JavaScript, HTML, CSS  
+- **Automation & DevOps:** Scripting, Infrastructure Automation, Web Services  
+- **Gaming & Tech:** Enthusiast with a passion for performance and innovation  
 
 ---
 
-## GitHub Statistiken
+## ⭐ Featured Projects
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiDDiX&show_icons=true&theme=radical)](https://github.com/RiDDiX)
+Here are some of my favorite and most actively maintained projects:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiDDiX&layout=compact&theme=radical)](https://github.com/RiDDiX)
+### 🔊 Lidarr Deemix Proxy
+**A smart proxy integration for Lidarr with Deezer / Deemix fallback support.**
+
+👉 **Repository:**  
+https://github.com/RiDDiX/lidarr-deemix  
+
+✨ Highlights:
+- Deezer fallback integration via Deemix  
+- Clean API proxying for Lidarr  
+- Designed for reliability and automation  
+- Docker-friendly setup  
+
+---
+
+### 🏠 Home Assistant Matter Hub
+**A Matter bridge and integration hub for Home Assistant.**
+
+👉 **Repository:**  
+https://github.com/RiDDiX/home-assistant-matter-hub  
+
+✨ Highlights:
+- Matter protocol integration  
+- Focus on smart home interoperability  
+- Clean Home Assistant compatibility  
+- Built for modern smart home setups  
+
+---
+
+## 📦 Other Projects
+
+You’ll find more projects related to:
+- Docker & containerized services  
+- Home Assistant & smart home automation  
+- Web development and backend services  
+
+I regularly update my repositories as new ideas and improvements come up.
+
+👉 **All projects:**  
+https://github.com/RiDDiX
+
+---
+
+## 🤝 Contact & Collaboration
+
+I'm always open to interesting ideas, collaborations, or just a friendly chat.
+
+📧 **Email:**  
+[info@riddix.de](mailto:info@riddix.de)
+
+More links and socials coming soon!
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiDDiX&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiDDiX&layout=compact&theme=radical)
