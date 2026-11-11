@@ -100,6 +100,6 @@ More links and socials coming soon!
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiDDiX&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RiDDiX&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiDDiX&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RiDDiX&layout=compact&theme=radical)
