@@ -28,6 +28,23 @@ I love building modern, scalable, and efficient solutions by combining innovativ
 
 Here are some of my favorite and most actively maintained projects:
 
+### 🖥️ UniversalLocal RMM
+**Self-hosted remote monitoring and management for Windows, Linux, macOS and FreeBSD/TrueNAS.**
+
+👉 **Repository:**  
+https://github.com/RiDDiX/ulrmm  
+
+👉 **Documentation:**  
+https://ulrmm.de  
+
+✨ Highlights:
+- SSO, mTLS agents and Ed25519-signed commands  
+- ISO builder for unattended Windows and Linux installs  
+- LAPS, vulnerability scanner and patch management  
+- UniFi and OPNsense sync, no paid tier  
+
+---
+
 ### 🔊 Lidarr Deemix Proxy
 **A smart proxy integration for Lidarr with Deezer / Deemix fallback support.**
 
