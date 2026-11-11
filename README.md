@@ -28,6 +28,20 @@ I love building modern, scalable, and efficient solutions by combining innovativ
 
 Here are some of my favorite and most actively maintained projects:
 
+### 🏠 Home Assistant Matter Hub
+**A Matter bridge and integration hub for Home Assistant.**
+
+👉 **Repository:**  
+https://github.com/RiDDiX/home-assistant-matter-hub  
+
+✨ Highlights:
+- Matter protocol integration  
+- Focus on smart home interoperability  
+- Clean Home Assistant compatibility  
+- Built for modern smart home setups  
+
+---
+
 ### 🖥️ UniversalLocal RMM
 **Self-hosted remote monitoring and management for Windows, Linux, macOS and FreeBSD/TrueNAS.**
 
@@ -56,20 +70,6 @@ https://github.com/RiDDiX/lidarr-deemix
 - Clean API proxying for Lidarr  
 - Designed for reliability and automation  
 - Docker-friendly setup  
-
----
-
-### 🏠 Home Assistant Matter Hub
-**A Matter bridge and integration hub for Home Assistant.**
-
-👉 **Repository:**  
-https://github.com/RiDDiX/home-assistant-matter-hub  
-
-✨ Highlights:
-- Matter protocol integration  
-- Focus on smart home interoperability  
-- Clean Home Assistant compatibility  
-- Built for modern smart home setups  
 
 ---
 
